@@ -75227,7 +75227,7 @@ k=(k==null?$.aa=B.q:k).bl(0,c,s).ch
 j=$.aa;(j==null?$.aa=B.q:j).bl(0,c,s).toString
 n=new A.b7(B.bZ,A.fJ(A.a([new A.rA(135,n,c),new A.rA(45,new A.b7(B.BD,new A.Lm(k,B.Q4,5,new A.VY(b),k,c),c),c)],r),B.O,B.uz,B.S),c)}else n=B.aX
 p=p===B.da
-k=p?75:0
+k=p?50:0
 j=o?100:16
 i=o?100:16
 h=$.aa
